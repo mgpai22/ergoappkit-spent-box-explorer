@@ -1,4 +1,4 @@
-package org.ergospaiens.explorer
+package org.ergosapiens.explorer
 
 import org.ergoplatform.ErgoBox
 import org.ergoplatform.appkit.impl.ScalaBridge
